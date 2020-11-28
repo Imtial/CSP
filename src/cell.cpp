@@ -3,14 +3,14 @@
 Cell::Cell()
 {
     row = col = -1;
-    val = 0;
+    val = deg = 0;
 }
 
 Cell::Cell(int row, int col)
 {
     this->row = row;
     this->col = col;
-    this->val = 0;
+    this->val = this->deg = 0;
 }
 
 Cell::Cell(int row, int col, int val)
@@ -18,6 +18,7 @@ Cell::Cell(int row, int col, int val)
     this->row = row;
     this->col = col;
     this->val = val;
+    this->deg = 0;
 }
 
 bool Cell::is_empty()

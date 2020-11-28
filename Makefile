@@ -2,7 +2,7 @@
 CC = g++
 
 # compiler flags
-CFLAGS = -std=c++11 -Wall -g -O3
+CFLAGS = -std=c++11 -Wall -g
 
 # include directories
 INCLUDES = -I include

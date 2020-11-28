@@ -7,7 +7,7 @@
 class Cell
 {
     public:
-        int8_t row, col, val;
+        int8_t row, col, val, deg;
         std::vector<int8_t> doms;
         Cell();
         Cell(int row, int col);

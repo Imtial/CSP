@@ -10,12 +10,15 @@ typedef std::vector<VC> VVC;
 
 class Board
 {
+    private:
+        std::string dfname;
     public:
         VVC grid;
         Board(int size);
         Board(std::string fname);
         bool load_from_file(std::string fname);
         int size();
+        std::string get_data_filename();
         void print();
 };
 

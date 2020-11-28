@@ -25,6 +25,7 @@ Board::Board(int size)
 
 Board::Board(std::string fname)
 {
+    dfname = fname;
     load_from_file(fname);
 }
 
@@ -80,6 +81,11 @@ bool Board::load_from_file(std::string fname)
     }
     ifs.close();
     return true;
+}
+
+std::string Board::get_data_filename()
+{
+    return dfname;
 }
 
 void Board::print()
