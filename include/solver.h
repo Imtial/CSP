@@ -10,7 +10,7 @@ class Solver
 {
     public:
         Solver(Board &board);
-        enum H {NONE, SDF, RANDOM, DOMDEG, DOMDDEG};
+        enum H {NONE, SDF, DOMDEG, DOMDDEG, RANDOM};
         enum ALGO {BT, FC, MAC};
     private:
         Board& board;

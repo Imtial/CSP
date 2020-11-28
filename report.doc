@@ -1,0 +1,120 @@
+DATA FILE: csp_task/data/d-10-01.txt.txt
+           N = 10
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 25827
+
+DATA FILE: csp_task/data/d-10-01.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 15902
+
+DATA FILE: csp_task/data/d-10-01.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 331
+
+DATA FILE: csp_task/data/d-10-01.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 15902
+
+DATA FILE: csp_task/data/d-10-06.txt.txt
+           N = 10
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 1474
+
+DATA FILE: csp_task/data/d-10-06.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 5716
+
+DATA FILE: csp_task/data/d-10-06.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 58
+
+DATA FILE: csp_task/data/d-10-06.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 5716
+
+DATA FILE: csp_task/data/d-10-07.txt.txt
+           N = 10
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 24005
+
+DATA FILE: csp_task/data/d-10-07.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 15104
+
+DATA FILE: csp_task/data/d-10-07.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 656
+
+DATA FILE: csp_task/data/d-10-07.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 15104
+
+DATA FILE: csp_task/data/d-10-08.txt.txt
+           N = 10
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 5064
+
+DATA FILE: csp_task/data/d-10-08.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 6967
+
+DATA FILE: csp_task/data/d-10-08.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 149
+
+DATA FILE: csp_task/data/d-10-08.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 6967
+
+DATA FILE: csp_task/data/d-10-09.txt.txt
+           N = 10
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 6175
+
+DATA FILE: csp_task/data/d-10-09.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 796
+
+DATA FILE: csp_task/data/d-10-09.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 62
+
+DATA FILE: csp_task/data/d-10-09.txt.txt
+           N = 10
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 796
+
+DATA FILE: csp_task/data/d-15-01.txt.txt
+           N = 15
+             Approach: BACKTRACKING with NO value ordering
+             Node Count = 463603891
+
+DATA FILE: csp_task/data/d-15-01.txt.txt
+           N = 15
+             Approach: FORWARD CHECKING with NO value ordering
+             Node Count = 202394517
+
+DATA FILE: csp_task/data/d-15-01.txt.txt
+           N = 15
+             Approach: FORWARD CHECKING with SDF value ordering
+             Node Count = 162010
+
+DATA FILE: csp_task/data/d-15-01.txt.txt
+           N = 15
+             Approach: FORWARD CHECKING with DOMDEG value ordering
+             Node Count = 202394517
+
